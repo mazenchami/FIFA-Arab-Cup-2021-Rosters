@@ -1,0 +1,193 @@
+{
+  "team": {
+    "tid": 43843,
+    "name": "Algeria",
+    "url": "https://dsg-images.com/clubs/100x100/640.png"
+  },
+  "players": [
+    {
+      "pid": "moustafa-43843-1",
+      "tid": 43843,
+      "name": "Zeghba Moustafa",
+      "position": "Goalkeeper",
+      "number": 1,
+      "url": "https://dsg-images.com/players/50x50/76511.png"
+    },
+    {
+      "pid": "aimen-43843-2",
+      "tid": 43843,
+      "name": "Bouguerra Aimen",
+      "position": "Defender",
+      "number": 2,
+      "url": "https://dsg-images.com/players/50x50/218066.png"
+    },
+    {
+      "pid": "hocine-43843-3",
+      "tid": 43843,
+      "name": "Benayada Hocine",
+      "position": "Defender",
+      "number": 3,
+      "url": "https://dsg-images.com/players/50x50/51393.png"
+    },
+    {
+      "pid": "djamel-43843-4",
+      "tid": 43843,
+      "name": "Benlamri Djamel",
+      "position": "Defender",
+      "number": 4,
+      "url": "https://dsg-images.com/players/50x50/53347.png"
+    },
+    {
+      "pid": "mehdi-43843-5",
+      "tid": 43843,
+      "name": "Tahrat Mehdi",
+      "position": "Defender",
+      "number": 5,
+      "url": "https://dsg-images.com/players/50x50/87991.png"
+    },
+    {
+      "pid": "titraoui-43843-6",
+      "tid": 43843,
+      "name": "Yassine Titraoui",
+      "position": "Forward",
+      "number": 6,
+      "url": "https://dsg-images.com/players/50x50/499192.png"
+    },
+    {
+      "pid": "tayeb-43843-7",
+      "tid": 43843,
+      "name": "Meziani Tayeb",
+      "position": "Forward",
+      "number": 7,
+      "url": "https://dsg-images.com/players/50x50/188789.png"
+    },
+    {
+      "pid": "amir-43843-8",
+      "tid": 43843,
+      "name": "Sayoud Amir",
+      "position": "Forward",
+      "number": 8,
+      "url": "https://dsg-images.com/players/50x50/75118.png"
+    },
+    {
+      "pid": "baghdad-43843-9",
+      "tid": 43843,
+      "name": "Bounedjah Baghdad",
+      "position": "Forward",
+      "number": 9,
+      "url": "https://dsg-images.com/players/50x50/68009.png"
+    },
+    {
+      "pid": "mohammed-43843-10",
+      "tid": 43843,
+      "name": "Belaili Mohammed",
+      "position": "Forward",
+      "number": 10,
+      "url": "https://cloudinary.fifa.com/m/10de8c2e70f2d8d8/webimage-default_person.png?tx=c_fill,ar_1.00,g_auto,q_auto,w_50"
+    },
+    {
+      "pid": "yacine-43843-11",
+      "tid": 43843,
+      "name": "Brahimi Yacine",
+      "position": "Forward",
+      "number": 11,
+      "url": "https://dsg-images.com/players/50x50/5701.png"
+    },
+    {
+      "pid": "mohamed-43843-12",
+      "tid": 43843,
+      "name": "Tougai Mohamed",
+      "position": "Defender",
+      "number": 12,
+      "url": "https://dsg-images.com/players/50x50/127269.png"
+    },
+    {
+      "pid": "merouane-43843-13",
+      "tid": 43843,
+      "name": "Zerrouki Merouane",
+      "position": "Forward",
+      "number": 13,
+      "url": "https://dsg-images.com/players/50x50/245572.png"
+    },
+    {
+      "pid": "sofiane-43843-14",
+      "tid": 43843,
+      "name": "Bendebka Sofiane",
+      "position": "Midfield",
+      "number": 14,
+      "url": "https://dsg-images.com/players/50x50/75116.png"
+    },
+    {
+      "pid": "el-arabi-43843-15",
+      "tid": 43843,
+      "name": "Soudani El Arabi",
+      "position": "Forward",
+      "number": 15,
+      "url": "https://cloudinary.fifa.com/m/10de8c2e70f2d8d8/webimage-default_person.png?tx=c_fill,ar_1.00,g_auto,q_auto,w_50"
+    },
+    {
+      "pid": "abderrahmane-43843-16",
+      "tid": 43843,
+      "name": "Medjadel Abderrahmane",
+      "position": "Goalkeeper",
+      "number": 16,
+      "url": "https://dsg-images.com/players/50x50/435744.png"
+    },
+    {
+      "pid": "zakaria-43843-17",
+      "tid": 43843,
+      "name": "Draoui Zakaria",
+      "position": "Midfield",
+      "number": 17,
+      "url": "https://dsg-images.com/players/50x50/76484.png"
+    },
+    {
+      "pid": "houssem-43843-18",
+      "tid": 43843,
+      "name": "Mrezigue Houssem",
+      "position": "Midfield",
+      "number": 18,
+      "url": "https://dsg-images.com/players/50x50/439066.png"
+    },
+    {
+      "pid": "abdelkader-43843-19",
+      "tid": 43843,
+      "name": "Bedrane Abdelkader",
+      "position": "Defender",
+      "number": 19,
+      "url": "https://dsg-images.com/players/50x50/76295.png"
+    },
+    {
+      "pid": "ilyes-43843-20",
+      "tid": 43843,
+      "name": "Cheti Ilyes",
+      "position": "Defender",
+      "number": 20,
+      "url": "https://dsg-images.com/players/50x50/217774.png"
+    },
+    {
+      "pid": "ayoub-43843-21",
+      "tid": 43843,
+      "name": "Abdellaoui Ayoub",
+      "position": "Defender",
+      "number": 21,
+      "url": "https://dsg-images.com/players/50x50/60304.png"
+    },
+    {
+      "pid": "zineddine-43843-22",
+      "tid": 43843,
+      "name": "Boutmene Zineddine",
+      "position": "Forward",
+      "number": 22,
+      "url": "https://dsg-images.com/players/50x50/317549.png"
+    },
+    {
+      "pid": "rais-43843-23",
+      "tid": 43843,
+      "name": "Mbolhi Rais",
+      "position": "Goalkeeper",
+      "number": 23,
+      "url": "https://dsg-images.com/players/50x50/6137.png"
+    }
+  ]
+}
