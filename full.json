@@ -9,6 +9,11 @@
       "tid": 43843,
       "name": "Algeria",
       "url": "https://dsg-images.com/clubs/100x100/640.png"
+    },
+    {
+      "tid": 43825,
+      "name": "Lebanon",
+      "url": "https://dsg-images.com/clubs/100x100/16452.png"
     }
   ],
   "players": [
@@ -379,6 +384,190 @@
       "position": "Goalkeeper",
       "number": 23,
       "url": "https://dsg-images.com/players/50x50/6137.png"
+    },
+    {
+      "pid": "aldouaihy-43825-1",
+      "tid": 43825,
+      "name": "Antoine Al Douaihy",
+      "position": "Goalkeeper",
+      "number": 1,
+      "url": "https://dsg-images.com/players/50x50/223301.png"
+    },
+    {
+      "pid": "hussein-43825-2",
+      "tid": 43825,
+      "name": "El Dor Hussein",
+      "position": "Defender",
+      "number": 2,
+      "url": "https://dsg-images.com/players/50x50/95440.png"
+    },
+    {
+      "pid": "maher-43825-3",
+      "tid": 43825,
+      "name": "Sabra Maher",
+      "position": "Defender",
+      "number": 3,
+      "url": "https://dsg-images.com/players/50x50/56372.png"
+    },
+    {
+      "pid": "nour-43825-4",
+      "tid": 43825,
+      "name": "Mansour Nour",
+      "position": "Defender",
+      "number": 4,
+      "url": "https://dsg-images.com/players/50x50/65002.png"
+    },
+    {
+      "pid": "jihad-43825-5",
+      "tid": 43825,
+      "name": "Ayoub Jihad",
+      "position": "Midfield",
+      "number": 5,
+      "url": "https://dsg-images.com/players/50x50/383193.png"
+    },
+    {
+      "pid": "mouhammed-43825-6",
+      "tid": 43825,
+      "name": "Dhaini Mouhammed",
+      "position": "Midfield",
+      "number": 6,
+      "url": "https://dsg-images.com/players/50x50/204503.png"
+    },
+    {
+      "pid": "fadel-43825-7",
+      "tid": 43825,
+      "name": "Antar Fadel",
+      "position": "Forward",
+      "number": 7,
+      "url": "https://dsg-images.com/players/50x50/436772.png"
+    },
+    {
+      "pid": "mahdi-43825-8",
+      "tid": 43825,
+      "name": "Zein Mahdi",
+      "position": "Midfield",
+      "number": 8,
+      "url": "https://dsg-images.com/players/50x50/140519.png"
+    },
+    {
+      "pid": "hilal-43825-9",
+      "tid": 43825,
+      "name": "Al Helwe Hilal",
+      "position": "Forward",
+      "number": 9,
+      "url": "https://dsg-images.com/players/50x50/82230.png"
+    },
+    {
+      "pid": "mohamad-43825-10",
+      "tid": 43825,
+      "name": "Haidar Mohamad",
+      "position": "Midfield",
+      "number": 10,
+      "url": "https://dsg-images.com/players/50x50/17960.png"
+    },
+    {
+      "pid": "awada-43825-11",
+      "tid": 43825,
+      "name": "Hussein Awada",
+      "position": "Midfield",
+      "number": 11,
+      "url": "https://dsg-images.com/players/50x50/306067.png"
+    },
+    {
+      "pid": "robert-43825-12",
+      "tid": 43825,
+      "name": "Melki Robert",
+      "position": "Defender",
+      "number": 12,
+      "url": "https://dsg-images.com/players/50x50/28059.png"
+    },
+    {
+      "pid": "george-43825-13",
+      "tid": 43825,
+      "name": "Melki George",
+      "position": "Midfield",
+      "number": 13,
+      "url": "https://dsg-images.com/players/50x50/28070.png"
+    },
+    {
+      "pid": "nader-43825-14",
+      "tid": 43825,
+      "name": "Matar Nader",
+      "position": "Midfield",
+      "number": 14,
+      "url": "https://dsg-images.com/players/50x50/170224.png"
+    },
+    {
+      "pid": "walid-43825-15",
+      "tid": 43825,
+      "name": "Shour Walid",
+      "position": "Midfield",
+      "number": 15,
+      "url": "https://dsg-images.com/players/50x50/345400.png"
+    },
+    {
+      "pid": "hassan-43825-16",
+      "tid": 43825,
+      "name": "Chaitou Hassan",
+      "position": "Defender",
+      "number": 16,
+      "url": "https://dsg-images.com/players/50x50/237344.png"
+    },
+    {
+      "pid": "mohamad-43825-17",
+      "tid": 43825,
+      "name": "Tahan Mohamad",
+      "position": "Defender",
+      "number": 17,
+      "url": "https://dsg-images.com/players/50x50/65090.png"
+    },
+    {
+      "pid": "kassem-43825-18",
+      "tid": 43825,
+      "name": "El Zein Kassem",
+      "position": "Defender",
+      "number": 18,
+      "url": "https://dsg-images.com/players/50x50/56362.png"
+    },
+    {
+      "pid": "zein-43825-19",
+      "tid": 43825,
+      "name": "Farran Zein",
+      "position": "Midfield",
+      "number": 19,
+      "url": "https://dsg-images.com/players/50x50/436784.png"
+    },
+    {
+      "pid": "rabih-43825-20",
+      "tid": 43825,
+      "name": "Ataya Rabih",
+      "position": "Midfield",
+      "number": 20,
+      "url": "https://dsg-images.com/players/50x50/65007.png"
+    },
+    {
+      "pid": "mostafa-43825-21",
+      "tid": 43825,
+      "name": "Matar Mostafa",
+      "position": "Goalkeeper",
+      "number": 21,
+      "url": "https://dsg-images.com/players/50x50/55022.png"
+    },
+    {
+      "pid": "abbas-43825-22",
+      "tid": 43825,
+      "name": "Assi Abbas",
+      "position": "Defender",
+      "number": 22,
+      "url": "https://dsg-images.com/players/50x50/193920.png"
+    },
+    {
+      "pid": "ali-43825-23",
+      "tid": 43825,
+      "name": "Sabeh Ali",
+      "position": "Goalkeeper",
+      "number": 23,
+      "url": "https://dsg-images.com/players/50x50/56379.png"
     }
   ]
 }
