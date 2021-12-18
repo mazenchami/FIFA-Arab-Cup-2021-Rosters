@@ -218,7 +218,7 @@
       "tid": 43843,
       "firstName": "Abderrahmane",
       "lastName": "Medjadel",
-      "age": "23",
+      "age": 23,
       "club": {
           "name": "Paradou AC",
           "imageUrl": "https://dsg-images.com/clubs/50x50/17228.png"
@@ -316,7 +316,7 @@
       "tid": 43843,
       "firstName": "Raïs",
       "lastName": "M'Bolhi",
-      "age": "35",
+      "age": 35,
       "club": {
           "name": "Al Ettifaq Saudi Club",
           "imageUrl": "https://dsg-images.com/clubs/50x50/1258.png"
