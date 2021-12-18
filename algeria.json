@@ -15,7 +15,7 @@
       "age": 31,
       "club": {
           "name": "Damac Saudi Club",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/16422.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/16422.png"
       },
       "position": "Goalkeeper",
       "number": 1,
@@ -29,7 +29,7 @@
       "age": 24,
       "club": {
           "name": "Paradou AC",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/17228.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/17228.png"
       },
       "position": "Defender",
       "number": 2,
@@ -43,7 +43,7 @@
       "age": 29,
       "club": {
           "name": "ES Sahel",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/1064.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/1064.png"
       },
       "position": "Defender",
       "number": 3,
@@ -57,7 +57,7 @@
       "age": 31,
       "club": {
           "name": "Qatar SC",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/1228.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/1228.png"
       },
       "position": "Defender",
       "number": 4,
@@ -71,7 +71,7 @@
       "age": 31,
       "club": {
           "name": "Al Gharafa SC",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/1225.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/1225.png"
       },
       "position": "Defender",
       "number": 5,
@@ -85,7 +85,7 @@
       "age": 18,
       "club": {
           "name": "Paradou AC",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/17228.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/17228.png"
       },
       "position": "Forward",
       "number": 6,
@@ -99,7 +99,7 @@
       "age": 25,
       "club": {
           "name": "ES Sahel",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/1064.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/1064.png"
       },
       "position": "Forward",
       "number": 7,
@@ -113,7 +113,7 @@
       "age": 31,
       "club": {
           "name": "Al Ta'ee Saudi Club",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/1274.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/1274.png"
       },
       "position": "Forward",
       "number": 8,
@@ -127,7 +127,7 @@
       "age": 30,
       "club": {
           "name": "Al Sadd SC",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/1231.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/1231.png"
       },
       "position": "Forward",
       "number": 9,
@@ -151,7 +151,7 @@
       "age": 31,
       "club": {
           "name": "Al Rayyan SC",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/1226.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/1226.png"
       },
       "position": "Forward",
       "number": 11,
@@ -165,7 +165,7 @@
       "age": 21,
       "club": {
           "name": "ES Tunis",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/1063.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/1063.png"
       },
       "position": "Defender",
       "number": 12,
@@ -179,7 +179,7 @@
       "age": 20,
       "club": {
           "name": "Paradou AC",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/17228.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/17228.png"
       },
       "position": "Forward",
       "number": 13,
@@ -193,7 +193,7 @@
       "age": 29,
       "club": {
           "name": "Al Fateh Saudi Club",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/1264.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/1264.png"
       },
       "position": "Midfield",
       "number": 14,
@@ -207,7 +207,7 @@
       "age": 34,
       "club": {
           "name": "Damac Saudi Club",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/16422.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/16422.png"
       },
       "position": "Forward",
       "number": 15,
@@ -221,7 +221,7 @@
       "age": "23",
       "club": {
           "name": "Paradou AC",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/17228.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/17228.png"
       },
       "position": "Goalkeeper",
       "number": 16,
@@ -235,7 +235,7 @@
       "age": 27,
       "club": {
           "name": "CR Belouizdad",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/17210.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/17210.png"
       },
       "position": "Midfield",
       "number": 17,
@@ -249,7 +249,7 @@
       "age": 21,
       "club": {
           "name": "CR Belouizdad",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/17210.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/17210.png"
       },
       "position": "Midfield",
       "number": 18,
@@ -263,7 +263,7 @@
       "age": 29,
       "club": {
           "name": "ES Tunis",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/1063.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/1063.png"
       },
       "position": "Defender",
       "number": 19,
@@ -277,7 +277,7 @@
       "age": 26,
       "club": {
           "name": "ES Tunis",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/1063.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/1063.png"
       },
       "position": "Defender",
       "number": 20,
@@ -291,7 +291,7 @@
       "age": 28,
       "club": {
           "name": "Al Ettifaq Saudi Club",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/1258.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/1258.png"
       },
       "position": "Defender",
       "number": 21,
@@ -305,7 +305,7 @@
       "age": 21,
       "club": {
           "name": "ES Sahel",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/1064.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/1064.png"
       },
       "position": "Forward",
       "number": 22,
@@ -319,7 +319,7 @@
       "age": "35",
       "club": {
           "name": "Al Ettifaq Saudi Club",
-          "imageUrl": "https://dsg-images.com/clubs/30x30/1258.png"
+          "imageUrl": "https://dsg-images.com/clubs/50x50/1258.png"
       },
       "position": "Goalkeeper",
       "number": 23,
