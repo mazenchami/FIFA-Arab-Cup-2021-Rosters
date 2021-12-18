@@ -2,45 +2,77 @@
   "team": {
     "tid": 43843,
     "name": "Algeria",
-    "url": "https://dsg-images.com/clubs/100x100/640.png"
+    "websiteUrl": "https://www.faf.dz",
+    "nicknames": ["Fennec Foxes"],
+    "logoUrl" : "https://dsg-images.com/clubs/100x100/640.png"
   },
   "players": [
     {
-      "pid": "moustafa-43843-1",
+      "pid": "zeghba-43843-1",
       "tid": 43843,
-      "name": "Zeghba Moustafa",
+      "firstName": "Moustafa",
+      "lastName": "Zeghba",
+      "age": 31,
+      "club": {
+          "name": "Damac Saudi Club",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/16422.png"
+      },
       "position": "Goalkeeper",
       "number": 1,
       "url": "https://dsg-images.com/players/50x50/76511.png"
     },
     {
-      "pid": "aimen-43843-2",
+      "pid": "bouguerra-43843-2",
       "tid": 43843,
-      "name": "Bouguerra Aimen",
+      "firstName": "Aimen",
+      "lastName": "Bouguerra",
+      "age": 24,
+      "club": {
+          "name": "Paradou AC",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/17228.png"
+      },
       "position": "Defender",
       "number": 2,
       "url": "https://dsg-images.com/players/50x50/218066.png"
     },
     {
-      "pid": "hocine-43843-3",
+      "pid": "benayada-43843-3",
       "tid": 43843,
-      "name": "Benayada Hocine",
+      "firstName": "Hocine",
+      "lastName": "Benayada",
+      "age": 29,
+      "club": {
+          "name": "ES Sahel",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/1064.png"
+      },
       "position": "Defender",
       "number": 3,
       "url": "https://dsg-images.com/players/50x50/51393.png"
     },
     {
-      "pid": "djamel-43843-4",
+      "pid": "benlamri-43843-4",
       "tid": 43843,
-      "name": "Benlamri Djamel",
+      "firstName": "Djamel",
+      "lastName": "Benlamri",
+      "age": 31,
+      "club": {
+          "name": "Qatar SC",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/1228.png"
+      },
       "position": "Defender",
       "number": 4,
       "url": "https://dsg-images.com/players/50x50/53347.png"
     },
     {
-      "pid": "mehdi-43843-5",
+      "pid": "tahrat-43843-5",
       "tid": 43843,
-      "name": "Tahrat Mehdi",
+      "firstName": "Mehdi",
+      "lastName": "Tahrat",
+      "age": 31,
+      "club": {
+          "name": "Al Gharafa SC",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/1225.png"
+      },
       "position": "Defender",
       "number": 5,
       "url": "https://dsg-images.com/players/50x50/87991.png"
@@ -48,143 +80,247 @@
     {
       "pid": "titraoui-43843-6",
       "tid": 43843,
-      "name": "Yassine Titraoui",
+      "firstName": "Yacine",
+      "lastName": "Titraoui",
+      "age": 18,
+      "club": {
+          "name": "Paradou AC",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/17228.png"
+      },
       "position": "Forward",
       "number": 6,
       "url": "https://dsg-images.com/players/50x50/499192.png"
     },
     {
-      "pid": "tayeb-43843-7",
+      "pid": "meziani-43843-7",
       "tid": 43843,
-      "name": "Meziani Tayeb",
+      "firstName": "Tayeb",
+      "lastName": "Meziani",
+      "age": 25,
+      "club": {
+          "name": "ES Sahel",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/1064.png"
+      },
       "position": "Forward",
       "number": 7,
       "url": "https://dsg-images.com/players/50x50/188789.png"
     },
     {
-      "pid": "amir-43843-8",
+      "pid": "sayoud-43843-8",
       "tid": 43843,
-      "name": "Sayoud Amir",
+      "firstName": "Amir",
+      "lastName": "Sayoud",
+      "age": 31,
+      "club": {
+          "name": "Al Ta'ee Saudi Club",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/1274.png"
+      },
       "position": "Forward",
       "number": 8,
       "url": "https://dsg-images.com/players/50x50/75118.png"
     },
     {
-      "pid": "baghdad-43843-9",
+      "pid": "bounedjah-43843-9",
       "tid": 43843,
-      "name": "Bounedjah Baghdad",
+      "firstName": "Baghdad",
+      "lastName": "Bounedjah",
+      "age": 30,
+      "club": {
+          "name": "Al Sadd SC",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/1231.png"
+      },
       "position": "Forward",
       "number": 9,
       "url": "https://dsg-images.com/players/50x50/68009.png"
     },
     {
-      "pid": "mohammed-43843-10",
+      "pid": "belaili-43843-10",
       "tid": 43843,
-      "name": "Belaili Mohammed",
+      "firstName": "Mohammed Youcef",
+      "lastName": "Belaili",
+      "age": 29,
       "position": "Forward",
       "number": 10,
       "url": "https://cloudinary.fifa.com/m/10de8c2e70f2d8d8/webimage-default_person.png?tx=c_fill,ar_1.00,g_auto,q_auto,w_50"
     },
     {
-      "pid": "yacine-43843-11",
+      "pid": "brahimi-43843-11",
       "tid": 43843,
-      "name": "Brahimi Yacine",
+      "firstName": "Yacine",
+      "lastName": "Brahimi",
+      "age": 31,
+      "club": {
+          "name": "Al Rayyan SC",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/1226.png"
+      },
       "position": "Forward",
       "number": 11,
       "url": "https://dsg-images.com/players/50x50/5701.png"
     },
     {
-      "pid": "mohamed-43843-12",
+      "pid": "tougai-43843-12",
       "tid": 43843,
-      "name": "Tougai Mohamed",
+      "firstName": "Mohamed",
+      "lastName": "Amine Tougai",
+      "age": 21,
+      "club": {
+          "name": "ES Tunis",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/1063.png"
+      },
       "position": "Defender",
       "number": 12,
       "url": "https://dsg-images.com/players/50x50/127269.png"
     },
     {
-      "pid": "merouane-43843-13",
+      "pid": "zerrouki-43843-13",
       "tid": 43843,
-      "name": "Zerrouki Merouane",
+      "firstName": "Merouane",
+      "lastName": "Zerrouki",
+      "age": 20,
+      "club": {
+          "name": "Paradou AC",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/17228.png"
+      },
       "position": "Forward",
       "number": 13,
       "url": "https://dsg-images.com/players/50x50/245572.png"
     },
     {
-      "pid": "sofiane-43843-14",
+      "pid": "bendebka-43843-14",
       "tid": 43843,
-      "name": "Bendebka Sofiane",
+      "firstName": "Sofiane",
+      "lastName": "Bendebka",
+      "age": 29,
+      "club": {
+          "name": "Al Fateh Saudi Club",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/1264.png"
+      },
       "position": "Midfield",
       "number": 14,
       "url": "https://dsg-images.com/players/50x50/75116.png"
     },
     {
-      "pid": "el-arabi-43843-15",
+      "pid": "soudani-43843-15",
       "tid": 43843,
-      "name": "Soudani El Arabi",
+      "firstName": "El Arabi Hillel",
+      "lastName": "Soudani",
+      "age": 34,
+      "club": {
+          "name": "Damac Saudi Club",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/16422.png"
+      },
       "position": "Forward",
       "number": 15,
-      "url": "https://cloudinary.fifa.com/m/10de8c2e70f2d8d8/webimage-default_person.png?tx=c_fill,ar_1.00,g_auto,q_auto,w_50"
+      "url": "https://dsg-images.com/players/50x50/11417.png"
     },
     {
-      "pid": "abderrahmane-43843-16",
+      "pid": "medjadel-43843-16",
       "tid": 43843,
-      "name": "Medjadel Abderrahmane",
+      "firstName": "Abderrahmane",
+      "lastName": "Medjadel",
+      "age": "23",
+      "club": {
+          "name": "Paradou AC",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/17228.png"
+      },
       "position": "Goalkeeper",
       "number": 16,
       "url": "https://dsg-images.com/players/50x50/435744.png"
     },
     {
-      "pid": "zakaria-43843-17",
+      "pid": "draoui-43843-17",
       "tid": 43843,
-      "name": "Draoui Zakaria",
+      "firstName": "Zakaria",
+      "lastName": "Draoui",
+      "age": 27,
+      "club": {
+          "name": "CR Belouizdad",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/17210.png"
+      },
       "position": "Midfield",
       "number": 17,
       "url": "https://dsg-images.com/players/50x50/76484.png"
     },
     {
-      "pid": "houssem-43843-18",
+      "pid": "mrezigue-43843-18",
       "tid": 43843,
-      "name": "Mrezigue Houssem",
+      "firstName": "Houssem",
+      "lastName": "Eddine Mrezigue",
+      "age": 21,
+      "club": {
+          "name": "CR Belouizdad",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/17210.png"
+      },
       "position": "Midfield",
       "number": 18,
       "url": "https://dsg-images.com/players/50x50/439066.png"
     },
     {
-      "pid": "abdelkader-43843-19",
+      "pid": "bedrane-43843-19",
       "tid": 43843,
-      "name": "Bedrane Abdelkader",
+      "firstName": "Abdelkader",
+      "lastName": "Bedrane",
+      "age": 29,
+      "club": {
+          "name": "ES Tunis",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/1063.png"
+      },
       "position": "Defender",
       "number": 19,
       "url": "https://dsg-images.com/players/50x50/76295.png"
     },
     {
-      "pid": "ilyes-43843-20",
+      "pid": "cheti-43843-20",
       "tid": 43843,
-      "name": "Cheti Ilyes",
+      "firstName": "Ilyes",
+      "lastName": "Cheti",
+      "age": 26,
+      "club": {
+          "name": "ES Tunis",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/1063.png"
+      },
       "position": "Defender",
       "number": 20,
       "url": "https://dsg-images.com/players/50x50/217774.png"
     },
     {
-      "pid": "ayoub-43843-21",
+      "pid": "abdellaoui-43843-21",
       "tid": 43843,
-      "name": "Abdellaoui Ayoub",
+      "firstName": "Ayoub",
+      "lastName": "Abdellaoui",
+      "age": 28,
+      "club": {
+          "name": "Al Ettifaq Saudi Club",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/1258.png"
+      },
       "position": "Defender",
       "number": 21,
       "url": "https://dsg-images.com/players/50x50/60304.png"
     },
     {
-      "pid": "zineddine-43843-22",
+      "pid": "boutmene-43843-22",
       "tid": 43843,
-      "name": "Boutmene Zineddine",
+      "firstName": "Zineddine",
+      "lastName": "Boutmène",
+      "age": 21,
+      "club": {
+          "name": "ES Sahel",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/1064.png"
+      },
       "position": "Forward",
       "number": 22,
       "url": "https://dsg-images.com/players/50x50/317549.png"
     },
     {
-      "pid": "rais-43843-23",
+      "pid": "mbolhi-43843-23",
       "tid": 43843,
-      "name": "Mbolhi Rais",
+      "firstName": "Raïs",
+      "lastName": "M'Bolhi",
+      "age": "35",
+      "club": {
+          "name": "Al Ettifaq Saudi Club",
+          "imageUrl": "https://dsg-images.com/clubs/30x30/1258.png"
+      },
       "position": "Goalkeeper",
       "number": 23,
       "url": "https://dsg-images.com/players/50x50/6137.png"
