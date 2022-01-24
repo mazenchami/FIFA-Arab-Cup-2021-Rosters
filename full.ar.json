@@ -1,0 +1,965 @@
+{
+  "teams": [
+    {
+      "tid": 43843,
+      "name": "الجزائر",
+      "websiteUrl": "https://www.faf.dz",
+      "nicknames": ["الأفناك", "محاربي الصحراء", "الخُضر"],
+      "logoUrl" : "https://dsg-images.com/clubs/100x100/640.png"
+    },
+    {
+      "tid": 43825,
+      "name": "لبنان",
+      "websiteUrl": "https://www.the-lfa.com",
+      "nicknames": ["رجال الأرز"],
+      "logoUrl" : "https://dsg-images.com/clubs/100x100/16452.png"
+    },
+    {
+      "tid": 43989,
+      "name": "فلسطين",
+      "websiteUrl": "http://www.pfa.ps",
+      "nicknames": ["الفدائيون", "الفرسان", "أسود كنعان"],
+      "logoUrl" : "https://dsg-images.com/clubs/100x100/16447.png"
+    }
+  ],
+  "players": [
+    {
+      "pid": "zeghba-43843-1",
+      "tid": 43843,
+      "firstName": "مصطفى ",
+      "lastName": "زغبا ",
+      "age": 31,
+      "club": {
+        "name": "Damac Saudi Club",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16422.png"
+      },
+      "position": "حارس مرمى "
+    },
+    {
+      "pid": "benayada-43843-3",
+      "tid": 43843,
+      "firstName": "حسين",
+      "lastName": "بن ايادا",
+      "age": 29,
+      "club": {
+        "name": "ES Sahel",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1064.png"
+      },
+      "position": "مدافع",
+      "number": 3,
+      "url": "https://dsg-images.com/players/50x50/51393.png"
+    },
+    {
+      "pid": "benlamri-43843-4",
+      "tid": 43843,
+      "firstName": "دجاميل",
+      "lastName": "بن لمري",
+      "age": 31,
+      "club": {
+        "name": "Qatar SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1228.png"
+      },
+      "position": "مدافع",
+      "number": 4,
+      "url": "https://dsg-images.com/players/50x50/53347.png"
+    },
+    {
+      "pid": "tahrat-43843-5",
+      "tid": 43843,
+      "firstName": "مهدي",
+      "lastName": "طهران",
+      "age": 31,
+      "club": {
+        "name": "Al Gharafa SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1225.png"
+      },
+      "position": "مدافع",
+      "number": 5,
+      "url": "https://dsg-images.com/players/50x50/87991.png"
+    },
+    {
+      "pid": "titraoui-43843-6",
+      "tid": 43843,
+      "firstName": "ياسين",
+      "lastName": "ططراوي",
+      "age": 18,
+      "club": {
+        "name": "Paradou AC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17228.png"
+      },
+      "position": "مهاجم",
+      "number": 6,
+      "url": "https://dsg-images.com/players/50x50/499192.png"
+    },
+    {
+      "pid": "meziani-43843-7",
+      "tid": 43843,
+      "firstName": "طيب",
+      "lastName": "ميزاني",
+      "age": 25,
+      "club": {
+        "name": "ES Sahel",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1064.png"
+      },
+      "position": "مهاجم",
+      "number": 7,
+      "url": "https://dsg-images.com/players/50x50/188789.png"
+    },
+    {
+      "pid": "sayoud-43843-8",
+      "tid": 43843,
+      "firstName": "امير",
+      "lastName": "سيود",
+      "age": 31,
+      "club": {
+        "name": "Al Ta'ee Saudi Club",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1274.png"
+      },
+      "position": "مهاجم",
+      "number": 8,
+      "url": "https://dsg-images.com/players/50x50/75118.png"
+    },
+    {
+      "pid": "bounedjah-43843-9",
+      "tid": 43843,
+      "firstName": "بغداد",
+      "lastName": "بو نهجا",
+      "age": 30,
+      "club": {
+        "name": "Al Sadd SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1231.png"
+      },
+      "position": "مهاجم",
+      "number": 9,
+      "url": "https://dsg-images.com/players/50x50/68009.png"
+    },
+    {
+      "pid": "belaili-43843-10",
+      "tid": 43843,
+      "firstName": "محمد يوسف",
+      "lastName": "بليلي",
+      "age": 29,
+      "position": "مهاجم",
+      "number": 10,
+      "url": "https://dsg-images.com/players/50x50/15541.png"
+    },
+    {
+      "pid": "brahimi-43843-11",
+      "tid": 43843,
+      "firstName": "ياسين",
+      "lastName": "ابراهيمي",
+      "age": 31,
+      "club": {
+        "name": "Al Rayyan SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1226.png"
+      },
+      "position": "مهاجم",
+      "number": 11,
+      "url": "https://dsg-images.com/players/50x50/5701.png"
+    },
+    {
+      "pid": "tougai-43843-12",
+      "tid": 43843,
+      "firstName": "محمد",
+      "lastName": "امين توفي",
+      "age": 21,
+      "club": {
+        "name": "ES Tunis",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1063.png"
+      },
+      "position": "مدافع",
+      "number": 12,
+      "url": "https://dsg-images.com/players/50x50/127269.png"
+    },
+    {
+      "pid": "zerrouki-43843-13",
+      "tid": 43843,
+      "firstName": "مروان",
+      "lastName": "زروقي",
+      "age": 20,
+      "club": {
+        "name": "Paradou AC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17228.png"
+      },
+      "position": "مهاجم",
+      "number": 13,
+      "url": "https://dsg-images.com/players/50x50/245572.png"
+    },
+    {
+      "pid": "bendebka-43843-14",
+      "tid": 43843,
+      "firstName": "صفيان",
+      "lastName": "بن لبقا",
+      "age": 29,
+      "club": {
+        "name": "Al Fateh Saudi Club",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1264.png"
+      },
+      "position": "خط الوسط",
+      "number": 14,
+      "url": "https://dsg-images.com/players/50x50/75116.png"
+    },
+    {
+      "pid": "soudani-43843-15",
+      "tid": 43843,
+      "firstName": "العربي هلال",
+      "lastName": "سوداني",
+      "age": 34,
+      "club": {
+        "name": "Damac Saudi Club",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16422.png"
+      },
+      "position": "مهاجم",
+      "number": 15,
+      "url": "https://dsg-images.com/players/50x50/11417.png"
+    },
+    {
+      "pid": "medjadel-43843-16",
+      "tid": 43843,
+      "firstName": "عبد الرحمن",
+      "lastName": "مدجادل ",
+      "age": 23,
+      "club": {
+        "name": "Paradou AC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17228.png"
+      },
+      "position": "حارس مرمى",
+      "number": 16,
+      "url": "https://dsg-images.com/players/50x50/435744.png"
+    },
+    {
+      "pid": "draoui-43843-17",
+      "tid": 43843,
+      "firstName": "زكريا",
+      "lastName": "ضراوة",
+      "age": 27,
+      "club": {
+        "name": "CR Belouizdad",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17210.png"
+      },
+      "position": "خط الوسط",
+      "number": 17,
+      "url": "https://dsg-images.com/players/50x50/76484.png"
+    },
+    {
+      "pid": "mrezigue-43843-18",
+      "tid": 43843,
+      "firstName": "حسام",
+      "lastName": "مريزيك الدين",
+      "age": 21,
+      "club": {
+        "name": "CR Belouizdad",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17210.png"
+      },
+      "position": "خط الوسط",
+      "number": 18,
+      "url": "https://dsg-images.com/players/50x50/439066.png"
+    },
+    {
+      "pid": "bedrane-43843-19",
+      "tid": 43843,
+      "firstName": "عبد القادر",
+      "lastName": "بدران",
+      "age": 29,
+      "club": {
+        "name": "ES Tunis",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1063.png"
+      },
+      "position": "مدافع",
+      "number": 19,
+      "url": "https://dsg-images.com/players/50x50/76295.png"
+    },
+    {
+      "pid": "cheti-43843-20",
+      "tid": 43843,
+      "firstName": "الياس",
+      "lastName": "شتي ",
+      "age": 26,
+      "club": {
+        "name": "ES Tunis",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1063.png"
+      },
+      "position": "مدافع",
+      "number": 20,
+      "url": "https://dsg-images.com/players/50x50/217774.png"
+    },
+    {
+      "pid": "abdellaoui-43843-21",
+      "tid": 43843,
+      "firstName": "ايوب",
+      "lastName": "عبد اللاوي",
+      "age": 28,
+      "club": {
+        "name": "Al Ettifaq Saudi Club",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1258.png"
+      },
+      "position": "مدافع",
+      "number": 21,
+      "url": "https://dsg-images.com/players/50x50/60304.png"
+    },
+    {
+      "pid": "boutmene-43843-22",
+      "tid": 43843,
+      "firstName": "زين الدين",
+      "lastName": "بوتمين",
+      "age": 21,
+      "club": {
+        "name": "ES Sahel",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1064.png"
+      },
+      "position": "مهاجم",
+      "number": 22,
+      "url": "https://dsg-images.com/players/50x50/317549.png"
+    },
+    {
+      "pid": "mbolhi-43843-23",
+      "tid": 43843,
+      "firstName": "رائس ",
+      "lastName": "مبولحي ",
+      "age": 35,
+      "club": {
+        "name": "Al Ettifaq Saudi Club",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1258.png"
+      },
+      "position": "حارس مرمى",
+      "number": 23,
+      "url": "https://dsg-images.com/players/50x50/6137.png"
+    },
+    {
+      "pid": "al-douaihy-43825-1",
+      "tid": 43825,
+      "firstName": "انطوان",
+      "lastName": "الدويهي ",
+      "age": 22,
+      "club": {
+        "name": "Salam SC Zgharta",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16385.png"
+      },
+      "position": "حارس مرمى",
+      "number": 1,
+      "url": "https://dsg-images.com/players/50x50/223301.png"
+    },
+    {
+      "pid": "el-dor-43825-2",
+      "tid": 43825,
+      "firstName": "حسين ",
+      "lastName": "الدر ",
+      "age": 27,
+      "club": {
+        "name": "Al Ansar SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16373.png"
+      },
+      "position": "مدافع ",
+      "number": 2,
+      "url": "https://dsg-images.com/players/50x50/95440.png"
+    },
+    {
+      "pid": "sabra-43825-3",
+      "tid": 43825,
+      "firstName": "ماهر",
+      "lastName": "صبرا",
+      "age": 29,
+      "club": {
+        "name": "Nejmeh SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16376.png"
+      },
+      "position": "مدافع ",
+      "number": 3,
+      "url": "https://dsg-images.com/players/50x50/56372.png"
+    },
+    {
+      "pid": "mansour-43825-4",
+      "tid": 43825,
+      "firstName": "نور",
+      "lastName": "منصور ",
+      "age": 32,
+      "club": {
+        "name": "Al Ahed SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16378.png"
+      },
+      "position": "مدافع ",
+      "number": 4,
+      "url": "https://dsg-images.com/players/50x50/65002.png"
+    },
+    {
+      "pid": "ayoub-43825-5",
+      "tid": 43825,
+      "firstName": "جهاد ",
+      "lastName": "ايوب ",
+      "age": 26,
+      "club": {
+        "name": "Al Ansar SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16373.png"
+      },
+      "position": "خط الوسط",
+      "number": 5,
+      "url": "https://dsg-images.com/players/50x50/383193.png"
+    },
+    {
+      "pid": "dhaini-43825-6",
+      "tid": 43825,
+      "firstName": "محمد علي",
+      "lastName": "دهيني ",
+      "age": 27,
+      "club": {
+        "name": "Trelleborgs FF",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1296.png"
+      },
+      "position": "خط الوسط",
+      "number": 6,
+      "url": "https://dsg-images.com/players/50x50/204503.png"
+    },
+    {
+      "pid": "Antar-43825-7",
+      "tid": 43825,
+      "firstName": "فاضل ",
+      "lastName": "عنتر ",
+      "age": 26,
+      "club": {
+        "name": "Shabab Al Sahel SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16381.png"
+      },
+      "position": "مهاجم ",
+      "number": 7,
+      "url": "https://dsg-images.com/players/50x50/436772.png"
+    },
+    {
+      "pid": "zein-43825-8",
+      "tid": 43825,
+      "firstName": "مهدي",
+      "lastName": "زين",
+      "age": 21,
+      "club": {
+        "name": "Nejmeh SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16376.png"
+      },
+      "position": "خط وسط",
+      "number": 8,
+      "url": "https://dsg-images.com/players/50x50/140519.png"
+    },
+    {
+      "pid": "al-helwe-43825-9",
+      "tid": 43825,
+      "firstName": "هلال",
+      "lastName": "الحلوة ",
+      "age": 27,
+      "club": {
+        "name": "Al Ahed SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16378.png"
+      },
+      "position": "مهاجم",
+      "number": 9,
+      "url": "https://dsg-images.com/players/50x50/82230.png"
+    },
+    {
+      "pid": "haidar-43825-10",
+      "tid": 43825,
+      "firstName": "محمد ",
+      "lastName": "حيدر",
+      "age": 32,
+      "club": {
+        "name": "Al Ahed SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16378.png"
+      },
+      "position": "خط الوسط",
+      "number": 10,
+      "url": "https://dsg-images.com/players/50x50/17960.png"
+    },
+    {
+      "pid": "awada-43825-11",
+      "tid": 43825,
+      "firstName": "حسين ",
+      "lastName": "عواضة ",
+      "age": 21,
+      "club": {
+        "name": "Shabab El Bourj SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/33995.png"
+      },
+      "position": "خط الوسط",
+      "number": 11,
+      "url": "https://dsg-images.com/players/50x50/306067.png"
+    },
+    {
+      "pid": "melki-43825-12",
+      "tid": 43825,
+      "firstName": "روبير الكسندر",
+      "lastName": "ملكي",
+      "age": 29,
+      "club": {
+        "name": "Al Shahaniya SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/14312.png"
+      },
+      "position": "مدافع",
+      "number": 12,
+      "url": "https://dsg-images.com/players/50x50/28059.png"
+    },
+    {
+      "pid": "melki-43825-13",
+      "tid": 43825,
+      "firstName": "جورج فيلكس",
+      "lastName": "ملكي",
+      "age": 27,
+      "club": {
+        "name": "AFC Eskilstuna",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/19841.png"
+      },
+      "position": "خط الوسط\n",
+      "number": 13,
+      "url": "https://dsg-images.com/players/50x50/28070.png"
+    },
+    {
+      "pid": "matar-43825-14",
+      "tid": 43825,
+      "firstName": "نادر",
+      "lastName": "مطر",
+      "age": 29,
+      "club": {
+        "name": "Al Mu'aidar SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/2128.png"
+      },
+      "position": "خط الوسط\n",
+      "number": 14,
+      "url": "https://dsg-images.com/players/50x50/170224.png"
+    },
+    {
+      "pid": "shour-43825-15",
+      "tid": 43825,
+      "firstName": "وليد",
+      "lastName": "شور",
+      "age": 25,
+      "club": {
+        "name": "Shabab Al Sahel SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16381.png"
+      },
+      "position": "خط الوسط",
+      "number": 15,
+      "url": "https://dsg-images.com/players/50x50/345400.png"
+    },
+    {
+      "pid": "chaitou-43825-16",
+      "tid": 43825,
+      "firstName": "حسان",
+      "lastName": "شعيتو ",
+      "age": 30,
+      "club": {
+        "name": "Al Ansar SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16373.png"
+      },
+      "position": "مدافع",
+      "number": 16,
+      "url": "https://dsg-images.com/players/50x50/237344.png"
+    },
+    {
+      "pid": "tahan-43825-17",
+      "tid": 43825,
+      "firstName": "محمد",
+      "lastName": "طحان",
+      "age": 33,
+      "club": {
+        "name": "Safa SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16377.png"
+      },
+      "position": "مدافع",
+      "number": 17,
+      "url": "https://dsg-images.com/players/50x50/65090.png"
+    },
+    {
+      "pid": "el-zein-43825-18",
+      "tid": 43825,
+      "firstName": "قاسم",
+      "lastName": "الزين",
+      "age": 31,
+      "club": {
+        "name": "Nejmeh SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16376.png"
+      },
+      "position": "مدافع",
+      "number": 18,
+      "url": "https://dsg-images.com/players/50x50/56362.png"
+    },
+    {
+      "pid": "farran-43825-19",
+      "tid": 43825,
+      "firstName": "زين",
+      "lastName": "فران ",
+      "age": 22,
+      "club": {
+        "name": "Al Ahed SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16378.png"
+      },
+      "position": "خط وسط",
+      "number": 19,
+      "url": "https://dsg-images.com/players/50x50/436784.png"
+    },
+    {
+      "pid": "ataya-43825-20",
+      "tid": 43825,
+      "firstName": "ربيع",
+      "lastName": "عطايا",
+      "age": 32,
+      "club": {
+        "name": "Al Ahed SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16378.png"
+      },
+      "position": "خط وسط",
+      "number": 20,
+      "url": "https://dsg-images.com/players/50x50/65007.png"
+    },
+    {
+      "pid": "matar-43825-21",
+      "tid": 43825,
+      "firstName": "مصطفى",
+      "lastName": "مطر",
+      "age": 26,
+      "club": {
+        "name": "Al Ahed SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16378.png"
+      },
+      "position": "حارس مرمى",
+      "number": 21,
+      "url": "https://dsg-images.com/players/50x50/55022.png"
+    },
+    {
+      "pid": "assi-43825-22",
+      "tid": 43825,
+      "firstName": "عباس",
+      "lastName": "عاصي",
+      "age": 26,
+      "club": {
+        "name": "Shabab Al Sahel SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16381.png"
+      },
+      "position": "مدافع",
+      "number": 22,
+      "url": "https://dsg-images.com/players/50x50/193920.png"
+    },
+    {
+      "pid": "sabeh-43825-23",
+      "tid": 43825,
+      "firstName": "علي",
+      "lastName": "صابح ",
+      "age": 27,
+      "club": {
+        "name": "Nejmeh SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16376.png"
+      },
+      "position": "حارس مرمى",
+      "number": 23,
+      "url": "https://dsg-images.com/players/50x50/56379.png"
+    },
+    {
+      "pid": "shaqfa-43989-1",
+      "tid": 43989,
+      "firstName": "عبد الله",
+      "lastName": "شقفة ",
+      "age": 30,
+      "club": {
+        "name": "Shabab Rafah SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/22585.png"
+      },
+      "position": "حارس مرمى",
+      "number": 1,
+      "url": "https://dsg-images.com/players/50x50/527264.png"
+    },
+    {
+      "pid": "khalil-43989-2",
+      "tid": 43989,
+      "firstName": "محمد",
+      "lastName": "خليل",
+      "age": 23,
+      "club": {
+        "name": "Muasasat Shabab Al BirSalamaah",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17997.png"
+      },
+      "position": "مدافع ",
+      "number": 2,
+      "url": "https://dsg-images.com/players/50x50/120604.png"
+    },
+    {
+      "pid": "rashid-43989-3",
+      "tid": 43989,
+      "firstName": "محمد",
+      "lastName": "رشيد",
+      "age": 26,
+      "club": {
+        "name": "Persib Bandung",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/18090.png"
+      },
+      "position": "خط الوسط",
+      "number": 3,
+      "url": "https://dsg-images.com/players/50x50/195069.png"
+    },
+    {
+      "pid": "hamed-43989-4",
+      "tid": 43989,
+      "firstName": "ياسر",
+      "lastName": "حامد",
+      "age": 24,
+      "position": "مدافع",
+      "number": 4,
+      "url": "https://dsg-images.com/players/50x50/333528.png"
+    },
+    {
+      "pid": "saleh-43989-5",
+      "tid": 43989,
+      "firstName": "محمد",
+      "lastName": "",
+      "age": 28,
+      "position": "مدافع",
+      "number": 5,
+      "url": "https://dsg-images.com/players/50x50/105156.png"
+    },
+    {
+      "pid": "kharoub-43989-6",
+      "tid": 43989,
+      "firstName": "عدي ",
+      "lastName": "خاروب ",
+      "age": 28,
+      "club": {
+        "name": "Shabab Al Khaleel SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/18005.png"
+      },
+      "position": "خط الوسط",
+      "number": 6,
+      "url": "https://dsg-images.com/players/50x50/109996.png"
+    },
+    {
+      "pid": "salem-43989-7",
+      "tid": 43989,
+      "firstName": "خالد",
+      "lastName": "سالم",
+      "age": 32,
+      "club": {
+        "name": "Al Hidd SCC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/13998.png"
+      },
+      "position": "مهاجم",
+      "number": 7,
+      "url": "https://dsg-images.com/players/50x50/46666.png"
+    },
+    {
+      "pid": "yamin-43989-8",
+      "tid": 43989,
+      "firstName": "محمد",
+      "lastName": "يمين",
+      "age": 27,
+      "club": {
+        "name": "Alquds Hilal Club",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/14414.png"
+      },
+      "position": "خط وسط",
+      "number": 8,
+      "url": "https://dsg-images.com/players/50x50/87101.png"
+    },
+    {
+      "pid": "seyam-43989-9",
+      "tid": 43989,
+      "firstName": "تامر ",
+      "lastName": "سيام",
+      "age": 29,
+      "club": {
+        "name": "Shabab Al Khaleel SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/18005.png"
+      },
+      "position": "خط وسط",
+      "number": 9,
+      "url": "https://dsg-images.com/players/50x50/62604.png"
+    },
+    {
+      "pid": "abu-habib-43989-10",
+      "tid": 43989,
+      "firstName": "عبد الحميد",
+      "lastName": "ابو حبيب",
+      "age": 32,
+      "club": {
+        "name": "Markaz Shabab Al Ama'ari",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/18004.png"
+      },
+      "position": "خط وسط",
+      "number": 10,
+      "url": "https://dsg-images.com/players/50x50/46673.png"
+    },
+    {
+      "pid": "kharoub-43989-11",
+      "tid": 43989,
+      "firstName": "ليث",
+      "lastName": "خاروب",
+      "age": 30,
+      "club": {
+        "name": "Markaz Balata",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17995.png"
+      },
+      "position": "خط وسط",
+      "number": 11,
+      "url": "https://dsg-images.com/players/50x50/191596.png"
+    },
+    {
+      "pid": "Eid-43989-12",
+      "tid": 43989,
+      "firstName": "محمود",
+      "lastName": "عيد",
+      "age": 28,
+      "club": {
+        "name": "Al Muharraq SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/14005.png"
+      },
+      "position": "خط وسط",
+      "number": 12,
+      "url": "https://dsg-images.com/players/50x50/51466.png"
+    },
+    {
+      "pid": "abu-warda-43989-13",
+      "tid": 43989,
+      "firstName": "محمود",
+      "lastName": "ابو وردة",
+      "age": 26,
+      "club": {
+        "name": "Markaz Balata",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17995.png"
+      },
+      "position": "خط وسط",
+      "number": 13,
+      "url": "https://dsg-images.com/players/50x50/58978.png"
+    },
+    {
+      "pid": "iwaiwi-43989-14",
+      "tid": 43989,
+      "firstName": "يزان",
+      "lastName": "اويوي ",
+      "age": 27,
+      "club": {
+        "name": "Shabab Al Khaleel SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/18005.png"
+      },
+      "position": "خط وسط",
+      "number": 14,
+      "url": "https://dsg-images.com/players/50x50/102158.png"
+    },
+    {
+      "pid": "al-bahdari-43989-15",
+      "tid": 43989,
+      "firstName": "عبد اللطيف",
+      "lastName": "البحدراني ",
+      "age": 37,
+      "club": {
+        "name": "Markaz Balata",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17995.png"
+      },
+      "position": "مدافع",
+      "number": 15,
+      "url": "https://dsg-images.com/players/50x50/46664.png"
+    },
+    {
+      "pid": "kaddoura-43989-16",
+      "tid": 43989,
+      "firstName": "عمر",
+      "lastName": "قدورة ",
+      "age": 27,
+      "club": {
+        "name": "Landskrona BoIS",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1279.png"
+      },
+      "position": "حارس مرمى ",
+      "number": 16,
+      "url": "https://dsg-images.com/players/50x50/20648.png"
+    },
+    {
+      "pid": "Adawi-43989-17",
+      "tid": 43989,
+      "firstName": "علي",
+      "lastName": "عدوي ",
+      "age": 29,
+      "club": {
+        "name": "Shabab SC Al Dhahiriya",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/18003.png"
+      },
+      "position": "خط وسط",
+      "number": 17,
+      "url": "https://dsg-images.com/players/50x50/232174.png"
+    },
+    {
+      "pid": "salim-43989-18",
+      "tid": 43989,
+      "firstName": "موسى",
+      "lastName": "سليم",
+      "age": 27,
+      "club": {
+        "name": "Shabab Al Khaleel SC",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/18005.png"
+      },
+      "position": "مدافع",
+      "number": 18,
+      "url": "https://dsg-images.com/players/50x50/268324.png"
+    },
+    {
+      "pid": "dahamshi-43989-19",
+      "tid": 43989,
+      "firstName": "ربال ",
+      "lastName": "دهمشي ",
+      "age": 19,
+      "club": {
+        "name": "Alquds Hilal Club",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/14414.png"
+      },
+      "position": "مهاجم",
+      "number": 19,
+      "url": "https://dsg-images.com/players/50x50/373024.png"
+    },
+    {
+      "pid": "salama-43989-20",
+      "tid": 43989,
+      "firstName": "عبد السلام",
+      "lastName": "سلامة ",
+      "age": 23,
+      "club": {
+        "name": "Alquds Hilal Club",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/14414.png"
+      },
+      "position": "مدافع",
+      "number": 20,
+      "url": "https://dsg-images.com/players/50x50/527265.png"
+    },
+    {
+      "pid": "qatmish-43989-21",
+      "tid": 43989,
+      "firstName": "احمد ",
+      "lastName": "قطميش ",
+      "age": 23,
+      "club": {
+        "name": "Markaz Balata",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17995.png"
+      },
+      "position": "مدافع",
+      "number": 21,
+      "url": "https://dsg-images.com/players/50x50/120617.png"
+    },
+    {
+      "pid": "ali-43989-22",
+      "tid": 43989,
+      "firstName": "توفيق ",
+      "lastName": "علي",
+      "age": 31,
+      "club": {
+        "name": "Markaz Shabab Al Ama'ari",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/18004.png"
+      },
+      "position": "حارس مرمى",
+      "number": 22,
+      "url": "https://dsg-images.com/players/50x50/46665.png"
+    },
+    {
+      "pid": "darwish-43989-23",
+      "tid": 43989,
+      "firstName": "محمد",
+      "lastName": "درويش",
+      "age": 30,
+      "club": {
+        "name": "Alquds Hilal Club",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/14414.png"
+      },
+      "position": "خط وسط",
+      "number": 23,
+      "url": "https://dsg-images.com/players/50x50/109568.png"
+    }
+  ]
+}
