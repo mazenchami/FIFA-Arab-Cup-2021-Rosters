@@ -1,6 +1,6 @@
 # FIFA-Arab-Cup-2021-Rosters
 
-JSON Rosters for FIFA Arab Cup 2021
+JSON Rosters for FIFA Arab Cup 2021 (English & Arabic)
 
 Credit:
 - [FIFA](https://www.fifa.com/tournaments/mens/arabcup/arabcup2021/teams)
