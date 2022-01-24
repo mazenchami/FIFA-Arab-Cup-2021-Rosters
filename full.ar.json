@@ -1,4 +1,19 @@
 {
+  "common": {
+    "first-name": "الاسم",
+    "last-name": "الشهرة",
+    "position": "المركز",
+    "age": "العمر",
+    "number": "الرقم",
+    "club": "النادي",
+    "club-name": "اسم النادي",
+    "team-name": "اسم الفريق",
+    "image-url": "رابط الصورة",
+    "url": "عنوان",
+    "website-url": "رابط الموقع",
+    "nicknames": "اسماء مستعارة",
+    "logo-url": "رابط الشعار"
+  },
   "teams": [
     {
       "tid": 43843,

@@ -1,10 +1,25 @@
 {
+  "common": {
+    "first-name": "First Name",
+    "last-name": "Last Name",
+    "position": "Position",
+    "age": "Age",
+    "number": "Number",
+    "club": "Club",
+    "club-name": "Club Name",
+    "team-name": "Team Name",
+    "image-url": "Image URL",
+    "url": "URL",
+    "website-url": "Website URL",
+    "nicknames": "Nicknames",
+    "logo-url": "Logo URL"
+  },
   "teams": [
     {
       "tid": 43843,
       "name": "Algeria",
       "websiteUrl": "https://www.faf.dz",
-      "nicknames": ["Fennec Foxes"],
+      "nicknames": ["The Fennec Foxes", "The Desert Warriors", "The Greens"],
       "logoUrl" : "https://dsg-images.com/clubs/100x100/640.png"
     },
     {
