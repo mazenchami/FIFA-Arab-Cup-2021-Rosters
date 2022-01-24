@@ -36,6 +36,20 @@
       "position": "حارس مرمى "
     },
     {
+      "pid": "bouguerra-43843-2",
+      "tid": 43843,
+      "firstName": "ايمن",
+      "lastName": "بو غرة",
+      "age": 24,
+      "club": {
+          "name": "Paradou AC",
+          "imageUrl": "https://dsg-images.com/clubs/50x50/17228.png"
+      },
+      "position": "مدافع",
+      "number": 2,
+      "url": "https://dsg-images.com/players/50x50/218066.png"
+    },
+    {
       "pid": "benayada-43843-3",
       "tid": 43843,
       "firstName": "حسين",
