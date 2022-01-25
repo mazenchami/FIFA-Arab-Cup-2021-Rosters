@@ -12,7 +12,8 @@
     "url": "عنوان",
     "website-url": "رابط الموقع",
     "nicknames": "اسماء مستعارة",
-    "logo-url": "رابط الشعار"
+    "logo-url": "رابط الشعار",
+    "players-of": "منتخب"
   },
   "teams": [
     {

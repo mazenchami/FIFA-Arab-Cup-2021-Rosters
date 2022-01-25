@@ -12,7 +12,8 @@
     "url": "URL",
     "website-url": "Website URL",
     "nicknames": "Nicknames",
-    "logo-url": "Logo URL"
+    "logo-url": "Logo URL",
+    "players-of": "Players of"
   },
   "teams": [
     {
